@@ -26,7 +26,7 @@ Utilizar AVD (android virtual device) ou Genymotion (versão 3.0.2 ou superior),
 
 ## Licença
 
-Este projeto está sobre a licença Apache License - see the [LICENSE.md](LICENSE.md) para maiores detalhes.
+Este projeto está sobre a licença Apache License - see the [LICENSE](LICENSE) para maiores detalhes.
 
 ## Referências
 
