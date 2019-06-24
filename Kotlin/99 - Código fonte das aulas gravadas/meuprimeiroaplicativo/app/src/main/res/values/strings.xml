@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My first app</string>
+    <string name="txtHelloWorld">Hello World!</string>
+    <string name="txtOlaPessoal">Hi people</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="msg_login">Digite seu login</string>
+    <string name="msg_senha">Digite sua senha</string>
+    <string name="msg_logar">Logar</string>
+</resources>
