@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.edu.unicesumar.primeiroapp">
+    package="br.com.uniciv.primeiroapp">
 
     <application
         android:allowBackup="true"
@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
-            android:name=".Main2Activity"
+            android:name="br.com.uniciv.primeiroapp.Main2Activity"
             android:label="@string/title_activity_main2"
             android:theme="@style/NoActionBar"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="br.com.uniciv.primeiroapp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
