@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-import br.edu.unicesumar.primeiroapp.R;
 
 public class MainActivity extends AppCompatActivity {
 

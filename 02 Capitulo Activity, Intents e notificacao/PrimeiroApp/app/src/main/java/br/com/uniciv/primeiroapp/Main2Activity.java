@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-import br.edu.unicesumar.primeiroapp.R;
+
 
 public class Main2Activity extends AppCompatActivity {
 
