@@ -4,7 +4,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
-import br.edu.unicesumar.primeiroapp.R;
 
 public class MainActivity extends AppCompatActivity {
 

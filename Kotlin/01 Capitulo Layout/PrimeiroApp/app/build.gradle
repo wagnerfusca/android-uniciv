@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "br.edu.unicesumar.primeiroapp"
+        applicationId "br.com.uniciv.primeiroapp"
         minSdkVersion 28
         targetSdkVersion 28
         versionCode 1
