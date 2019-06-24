@@ -1,4 +1,4 @@
-package br.edu.unicesumar.primeiroapp;
+package br.com.uniciv.primeiroapp;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -20,6 +20,8 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import br.edu.unicesumar.primeiroapp.R;
 
 public class CapituloSobreActivity extends AppCompatActivity {
 
